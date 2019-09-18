@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml:1:1-13:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/73cfd2137fbe09ab02dcf2ff7aefc887/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/586c99fe83d236c264f79a196afdfbfd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/200436c0489454ebe74248cdcfb9b146/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/d6f5f3a9a1fd49a8e2107e71ea9d23f1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/1298a39cee28382cdfe9cf388708f21a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/76b36334775e042df1897beb3c4f0418/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/1073b5fa8dfcbe30038525101cf5a3e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/844ba1c0c386d0826ad88121ce730c46/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/0a7e80158ebb21ba8033b826417723bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/b44949b36fd4367669dac3b709f07767/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/b5bc3b659f1a4a785895febeb54ad83a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/f98bcf65793086769a5d44012353a9a1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/c724a45075c46ec708b4dae450c55198/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/981a69e553f3e650a31fe0f6126d17f4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/fdc522d73c157a364abb87392814136c/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/211a34927e512d1172ca1f1385f9614a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/dd24f284a0560915472658cdecd982ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/4a4fb27f9b6937b68c28f3357dac9491/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/0875e3aac3ead56c0c6a36cdc5f5a36e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/8740dfcf5b7029b209a673bff737849a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/19f4b9cd59238d63252574dca70fe29f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/5c4558851d4e61f3285a1d3d53c05c52/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/e5119eabd8a9193966aa3c0d0d3830aa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/19998c6d6fe49326cbc24b622bfa7740/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/7a3e5a9b76317d5a234baa8ffc014fac/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml:1:1-13:12
+INJECTED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml:1:1-13:12
+	package
+		ADDED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml:2:5-38
+		INJECTED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml:6:5-11:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/981a69e553f3e650a31fe0f6126d17f4/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/981a69e553f3e650a31fe0f6126d17f4/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/fdc522d73c157a364abb87392814136c/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/fdc522d73c157a364abb87392814136c/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/981a69e553f3e650a31fe0f6126d17f4/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml:8:9-45
+	android:allowBackup
+		ADDED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml:10:9-40
+uses-sdk
+INJECTED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml
+INJECTED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/73cfd2137fbe09ab02dcf2ff7aefc887/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/73cfd2137fbe09ab02dcf2ff7aefc887/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/586c99fe83d236c264f79a196afdfbfd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/586c99fe83d236c264f79a196afdfbfd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/200436c0489454ebe74248cdcfb9b146/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/200436c0489454ebe74248cdcfb9b146/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/d6f5f3a9a1fd49a8e2107e71ea9d23f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/d6f5f3a9a1fd49a8e2107e71ea9d23f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/1298a39cee28382cdfe9cf388708f21a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/1298a39cee28382cdfe9cf388708f21a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/76b36334775e042df1897beb3c4f0418/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/76b36334775e042df1897beb3c4f0418/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/1073b5fa8dfcbe30038525101cf5a3e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/1073b5fa8dfcbe30038525101cf5a3e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/844ba1c0c386d0826ad88121ce730c46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/844ba1c0c386d0826ad88121ce730c46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/0a7e80158ebb21ba8033b826417723bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/0a7e80158ebb21ba8033b826417723bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/b44949b36fd4367669dac3b709f07767/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/b44949b36fd4367669dac3b709f07767/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/b5bc3b659f1a4a785895febeb54ad83a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/b5bc3b659f1a4a785895febeb54ad83a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/f98bcf65793086769a5d44012353a9a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/f98bcf65793086769a5d44012353a9a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/c724a45075c46ec708b4dae450c55198/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/c724a45075c46ec708b4dae450c55198/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/981a69e553f3e650a31fe0f6126d17f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/981a69e553f3e650a31fe0f6126d17f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/fdc522d73c157a364abb87392814136c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/fdc522d73c157a364abb87392814136c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/211a34927e512d1172ca1f1385f9614a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/211a34927e512d1172ca1f1385f9614a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/dd24f284a0560915472658cdecd982ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/dd24f284a0560915472658cdecd982ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/4a4fb27f9b6937b68c28f3357dac9491/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/4a4fb27f9b6937b68c28f3357dac9491/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/0875e3aac3ead56c0c6a36cdc5f5a36e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/0875e3aac3ead56c0c6a36cdc5f5a36e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/8740dfcf5b7029b209a673bff737849a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/8740dfcf5b7029b209a673bff737849a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/19f4b9cd59238d63252574dca70fe29f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/19f4b9cd59238d63252574dca70fe29f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/5c4558851d4e61f3285a1d3d53c05c52/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/5c4558851d4e61f3285a1d3d53c05c52/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/e5119eabd8a9193966aa3c0d0d3830aa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/e5119eabd8a9193966aa3c0d0d3830aa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/19998c6d6fe49326cbc24b622bfa7740/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/19998c6d6fe49326cbc24b622bfa7740/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/7a3e5a9b76317d5a234baa8ffc014fac/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/ubuntu/.gradle/caches/transforms-2/files-2.1/7a3e5a9b76317d5a234baa8ffc014fac/AndroidManifest.xml:20:5-44
+INJECTED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml
+INJECTED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml
+		ADDED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml
+		ADDED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ubuntu/share/code/AndroidUtils/app/src/main/AndroidManifest.xml

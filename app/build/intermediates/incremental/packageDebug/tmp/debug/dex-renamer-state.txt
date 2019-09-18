@@ -1,0 +1,4 @@
+#Wed Sep 18 11:19:33 CST 2019
+base.0=/home/ubuntu/share/code/AndroidUtils/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

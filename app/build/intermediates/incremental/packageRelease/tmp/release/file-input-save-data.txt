@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Sep 18 11:19:38 CST 2019
+0.baseType=DIRECTORY
+0.base=/home/ubuntu/share/code/AndroidUtils/app/build/intermediates/dex/release/mergeDexRelease/out
+0.path=classes.dex
+0.set=DEX
+count=1

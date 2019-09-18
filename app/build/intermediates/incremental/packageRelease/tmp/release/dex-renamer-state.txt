@@ -1,0 +1,4 @@
+#Wed Sep 18 11:19:38 CST 2019
+base.0=/home/ubuntu/share/code/AndroidUtils/app/build/intermediates/dex/release/mergeDexRelease/out
+path.0=classes.dex
+renamed.0=classes.dex
